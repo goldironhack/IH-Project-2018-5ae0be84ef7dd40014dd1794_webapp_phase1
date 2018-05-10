@@ -1,9 +1,10 @@
-body {
-    color: #444;
-    font-family: Arial, sans-serif;
+#map {
+  height: 500px;
 }
 
-.container {
-    width: 100%;
-    max-width: 960px;
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
 }
